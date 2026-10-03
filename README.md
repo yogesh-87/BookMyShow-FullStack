@@ -28,10 +28,3 @@ A full-stack movie ticket booking web application built with Spring Boot and sta
 - **Clean Architecture**: Organized into layered Controllers, Services, Repositories, Entities, and DTOs.
 
 ---
-
-## How to Run
-
-### 1. Spring Boot Backend
-1. Clone the repository:
-   ```bash
-   git clone [https://github.com/yogesh-87/BookMyShow-FullStack.git](https://github.com/yogesh-87/BookMyShow-FullStack.git)
